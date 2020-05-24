@@ -23,8 +23,8 @@ class SkrillPaymentController extends Controller
         $this->skrilRequest->return_url = 'http://laradev.test/payment-completed';
         $this->skrilRequest->cancel_url = 'http://laradev.test/payment-cancelled';
         $this->skrilRequest->logo_url = 'https://i.imgur.com/BYBiIZX.png';
-        $this->skrilRequest->status_url = 'obydulcse@gmail.com';
-        $this->skrilRequest->status_url2 = 'mdobydullahcse@gmail.com';
+        $this->skrilRequest->status_url = 'email or ipn';
+        $this->skrilRequest->status_url2 = 'email or ipn';
     }
 
     /**
