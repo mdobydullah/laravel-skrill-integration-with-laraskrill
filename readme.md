@@ -6,7 +6,7 @@ I've used LaraSkrill package for this project. We are able to make payment and d
 
 
 ## Tutorial Link
-[Laravel Skrill Payment Gateway Integration with LaraSkrill](https://www.mynotepaper.com/laravel-skrill-payment-gateway-integration-with-laraskrill.html)
+[Laravel Skrill Payment Gateway Integration with LaraSkrill](https://www.mynotepaper.com/laravel-skrill-payment-gateway-integration-with-laraskrill)
 
 ## Output
 Payment Page:
