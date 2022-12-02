@@ -1,3 +1,7 @@
+## Latest Repo
+Please check latest repo: [mdobydullah/laravel-laraskrill-integration](https://github.com/mdobydullah/laravel-laraskrill-integration)
+
+
 ## Laravel Skrill Payment Gateway Integration with LaraSkrill
 I've used LaraSkrill package for this project. We are able to make payment and do refund using LaraSkrill.
 
